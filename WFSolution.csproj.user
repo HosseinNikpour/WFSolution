@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SharePointSiteUrl>http://net-sp/</SharePointSiteUrl>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{C1CDDADD-2546-481F-9697-4EA41081F2FC}">
+        <ProjectItemStore Id="{9aaff993-b33d-4824-ba48-004cb9655133}">
+          <DisplayName>WFSolution - SetPermissionWF</DisplayName>
+          <HistoryList>تاریخچۀ فرآیند</HistoryList>
+          <HistoryListGuid>{f48565a5-83e6-4135-acb3-b7e40811925b}</HistoryListGuid>
+          <TaskList>وظیفه ها</TaskList>
+          <TaskListGuid>{ee1dc4f1-b137-4bb0-bb41-cc630566acae}</TaskListGuid>
+          <AutoAssociate>true</AutoAssociate>
+          <ManualStart>true</ManualStart>
+          <ListURL>http://net-sp/TemporaryDeliveryes/Forms/AllItems.aspx</ListURL>
+          <TargetList>صورت جلسات تحویل موقت</TargetList>
+          <TargetListGuid>{26a91b07-8fb5-4b14-aee1-3d75457c9b99}</TargetListGuid>
+          <StartOnCreate>true</StartOnCreate>
+          <StartOnChange>false</StartOnChange>
+        </ProjectItemStore>
+        <ProjectItemStore Id="{35d645e5-c9be-4bd8-8471-33cc1644d4ea}">
+          <DisplayName>WFSolution - MoveToFolderWF</DisplayName>
+          <HistoryList>تاریخچۀ فرآیند</HistoryList>
+          <HistoryListGuid>{f48565a5-83e6-4135-acb3-b7e40811925b}</HistoryListGuid>
+          <TaskList>وظیفه ها</TaskList>
+          <TaskListGuid>{ee1dc4f1-b137-4bb0-bb41-cc630566acae}</TaskListGuid>
+          <AutoAssociate>true</AutoAssociate>
+          <ManualStart>true</ManualStart>
+          <ListURL>http://net-sp/Lists/GreatestSupervisionPCDetails/AllItems.aspx</ListURL>
+          <TargetList>ارزشیابی نظارت عالیه جزئیات</TargetList>
+          <TargetListGuid>{0023a6af-b186-4304-89d0-153be00b8b5a}</TargetListGuid>
+          <StartOnCreate>true</StartOnCreate>
+          <StartOnChange>false</StartOnChange>
+        </ProjectItemStore>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

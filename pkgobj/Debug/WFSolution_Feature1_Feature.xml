@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="f9c06d36-d58c-4876-ab51-faacac10b9a2" Scope="Site" Title="WFSolution Feature1">
+  <ElementManifests>
+    <ElementManifest Location="SetPermissionWF\Elements.xml" />
+    <ElementManifest Location="MoveToFolderWF\Elements.xml" />
+  </ElementManifests>
+</Feature>

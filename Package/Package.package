@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="1b557a1d-7eda-44ba-a6f0-0f098d8d8821" solutionId="1b557a1d-7eda-44ba-a6f0-0f098d8d8821" resetWebServer="false" sharePointProductVersion="15.0" name="WFSolution" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="cc2ec094-e2d3-4bab-87ad-fe8d746a6102" />
+  </features>
+</package>

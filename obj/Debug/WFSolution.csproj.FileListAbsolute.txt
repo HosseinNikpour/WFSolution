@@ -1,0 +1,5 @@
+c:\users\spadmin\documents\visual studio 2013\Projects\WFSolution\WFSolution\obj\Debug\WFSolution.csprojResolveAssemblyReference.cache
+c:\users\spadmin\documents\visual studio 2013\Projects\WFSolution\WFSolution\bin\Debug\WFSolution.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\WFSolution\WFSolution\bin\Debug\WFSolution.pdb
+c:\users\spadmin\documents\visual studio 2013\Projects\WFSolution\WFSolution\obj\Debug\WFSolution.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\WFSolution\WFSolution\obj\Debug\WFSolution.pdb
